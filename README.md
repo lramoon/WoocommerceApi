@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# WoocommerceApi Se establece un APIREST con woocommerce Esta es la parte Frontend utilizado von VUE y VEUTIFY " 
